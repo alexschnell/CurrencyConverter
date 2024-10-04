@@ -1,9 +1,9 @@
 # CurrencyConverter | Aplicativo que realiza conversão de taxas de câmbio
 
-Repositório para armazenar um aplicativo realiza conversão de taxas de câmbio.
+Repositório para armazenar um aplicativo que realiza a conversão de taxas de câmbio.
 
 ## :books: Funcionamento do APP
-Ao iniciar, o aplicativo busca na API "https://cdn.moeda.info" as moedas e taxas de cãmbio atuais baseadas no USD (dólar americano).
+Ao iniciar, o aplicativo busca na API "https://cdn.moeda.info" as moedas e taxas de câmbio atuais baseadas no USD (dólar americano).
 Inicialmente, o aplicativo seleciona as moedas: <br/>
 De: "USD" (dólar americano) <br/>
 Para: "BRL" (real brasileiro) <br/>
@@ -12,7 +12,7 @@ Valor: 1 <br/>
 O usuário pode alterar as moedas, valor desejado e clicar no botão "Conversão". <br/>
 O aplicativo realizará a conversão apresentando o valor.
 
-## :books: Funcionamento API
+## :books: Funcionamento da API
 A cada hora, é gerado pela API um arquivo JSON com dados atualizados da taxa de câmbio. <br/>
 A moeda base é o dólar USD. A API está disponível na nuvem CDN. <br/>
 Para maiores informações, consulte: <br/>
