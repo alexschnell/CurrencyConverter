@@ -18,14 +18,14 @@ A moeda base é o dólar USD. A API está disponível na nuvem CDN. <br/>
 Para maiores informações, consulte: <br/>
 https://moeda.info/pages/api
 
-## :books: Padrões e bibliotecas utilizadas
+## :books: Padrões, Frameworks e/ou Bibliotecas utilizadas
 
-| Padrão / Biblioteca | Finalidade |
+| Padrão / Framework / Biblioteca | Finalidade |
 |-------|---------|
 | [Arquitetura MVVM]() | A arquitetura MVVM (Model-View-ViewModel) foi usada no desenvolvimento do aplicativo para separar claramente as responsabilidades entre a interface do usuário (View), a lógica de negócios e a manipulação de dados (Model). Usada para garantir que o código esteja bem estruturado, com uma separação clara entre a lógica de visualização e o código de negócios. |
 | [Retrofit2]() | Consumo da API |
 | [OkHttp]() | Usado para interceptar os logs |
-| [Layouts com XML]() | Construção do layout com XML que é a abordagem tradicional no desenvolvimento Android. |
+| [Layouts com XML]() | Construção do layout com XML que é a abordagem tradicional no desenvolvimento Android. <br/> Caso deseje visualizar um projeto com Jetpack Compose, acesse meu outro projeto em: https://github.com/alexschnell/imgurcats.git |
 
 ## :books: Este repositório
 ```
