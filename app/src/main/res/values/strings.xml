@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="info01">"Como funciona?"</string>
+    <string name="info02">"A cada hora, é gerado pela API um arquivo JSON com dados atualizados da taxa de câmbio."</string>
+    <string name="info03">"A moeda base é o dólar USD. A API está disponível na nuvem CDN."</string>
+    <string name="info04">"Para maiores informações, consulte:"</string>
+    <string name="info05">"https://moeda.info/pages/api"</string>
+
+</resources>

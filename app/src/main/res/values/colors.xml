@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_dark">#FF0D47A1</color>
+    <color name="blue">#FF1565C0</color>
+    <color name="blue_light">#FF42A5F5</color>
+
+    <color name="background">#121212</color>
+    <color name="text">#E0E0E0</color>
+    <color name="primary">#BB86FC</color>
+    <color name="purple_dark">#8A2BE2</color>
+
+
+    <color name="spinnerBackgroundColor">#FFFFFF</color> <!-- Branco -->
+    <color name="spinnerTextColorLight">#000000</color> <!-- Preto para tema claro -->
+    <color name="spinnerTextColorDark">#FFFFFF</color>  <!-- Branco para tema escuro -->
+</resources>
